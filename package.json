@@ -1,20 +1,17 @@
 {
-  "name": "newProxyService",
-  "version": "2.0.0",
-  "description": "Proxy service for routing and authenticating API requests to Roblox endpoints.",
+  "name": "newproxyservice",
+  "version": "1.0.0",
+  "description": "",
   "main": "server.js",
-  "dependencies": {
-    "http-proxy": "^1.18.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/elrf3lipes/newProxyService"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "elrf3lipes",
-  "license": "MIT"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "https": "^1.0.0"
+  }
 }
