@@ -62,3 +62,4 @@ print("Catalog Items:", response.body)
 This setup lets your Roblox game bypass the limitations of HttpService by routing requests through your Heroku-hosted proxy server.
 
 ---
+Made with ❤️ by [elrf3lipes](https://github.com/elrf3lipes/)
